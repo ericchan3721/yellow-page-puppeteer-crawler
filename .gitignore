@@ -1,0 +1,8 @@
+# node_modules
+node_modules/
+
+# vs code snippet
+.vscode
+
+# exported csv files
+clinic_*.csv
